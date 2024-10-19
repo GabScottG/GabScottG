@@ -7,5 +7,5 @@ I'm driven by a passion for uncovering insights within data and applying my anal
 **I Dedicate this GitHub of my journey towards Data Analytics. Showcasing: Projects, Exercises, & Learnings!**
 <br>
 ### 🌐Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in/[your-linkedin-profile]](https://www.linkedin.com/in/gabgandolpos/)) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:scottgandolpos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabgandolpos/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scottgandolpos@gmail.com)
