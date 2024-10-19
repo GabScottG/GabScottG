@@ -7,4 +7,16 @@ I'm driven by a passion for uncovering insights within data and applying my anal
 <br>
 **I Dedicate this GitHub of my journey towards Data Analytics. Showcasing: Projects, Exercises, & Learnings!**
 <br>
-### 🌐 Let's Connect! <span style="vertical-align: middle;">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabgandolpos/)</span> <span style="vertical-align: middle;">[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:scottgandolpos@gmail.com)</span>
+### 🌐 Let's Connect! <table>
+  <tr>
+    <td align="right"> 
+      <img src="https://img.shields.io/static/v1?label=&message=Let's%20Connect!&color=informational&style=flat-square" alt="Let's Connect!">
+    </td>
+    <td>
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabgandolpos/) 
+    </td>
+    <td>
+      [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:scottgandolpos@gmail.com)
+    </td>
+  </tr>
+</table>
