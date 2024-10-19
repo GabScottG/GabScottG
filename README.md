@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, You can call me Scott! | ✈️  From Aviation Engineer to Data Enthusiast 🚀  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabgandolpos/) 
+👋 Hi, You can call me Scott! | ✈️  From Aviation Engineer to Data Enthusiast 🚀&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabgandolpos/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:scottgandolpos@gmail.com)
 <br>
 <br> 
