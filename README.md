@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, You can call me Scott! | 🚀  From Aviation Engineer to Data Enthusiast 
+👋 Hi, You can call me Scott!
 <br>
 <br> 
 I'm driven by a passion for uncovering insights within data and applying my analytical skills to solve real-world problems. With a strong foundation in engineering from my aviation degree, I'm now focused on building a career in data analytics. I've expanded my skillset through various courses and certifications, gaining proficiency in SQL, MS Excel and essential any spreadsheet applications - working with data!
